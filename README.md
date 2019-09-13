@@ -1,4 +1,4 @@
-# Skin Lesion Image Classification
+# Skin Lesion Image Classification Using Convolution Neural Networks and Patient Meta-Data
 
 This is a tool for the automatic classification of skin lesion images, using images and the patient's meta data.
 

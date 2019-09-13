@@ -35,7 +35,7 @@ The dataset consists of JPEG images belonging to 7 different skin lesion categor
 Architecture:
 
 ![Architectural Diagram]
-(https://github.com/aiacov02/SkinLesionClassifier/blob/master/architecture.png)
+(architecture.png)
 
 
 <br />

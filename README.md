@@ -30,11 +30,15 @@ The dataset consists of JPEG images belonging to 7 different skin lesion categor
 
 7. Vascular lesion (vasc)
 
+<br />
 
 Architecture:
 
+![Architectural Diagram]
+(https://github.com/aiacov02/SkinLesionClassifier/architecture.png)
 
 
+<br />
 
 Instructions to use:
 1. Make sure you have an NVIDIA GPU with enough memory, that supports cuda and has cuda installed

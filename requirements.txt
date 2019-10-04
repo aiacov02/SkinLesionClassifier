@@ -35,6 +35,6 @@ tensorboard==1.11.0
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.11.0
 termcolor==1.1.0
-Werkzeug==0.15.2
+Werkzeug==0.15.3
 wrapt==1.11.2
 xgboost==0.90

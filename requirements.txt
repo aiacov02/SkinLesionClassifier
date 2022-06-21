@@ -15,7 +15,7 @@ Markdown==3.0.1
 matplotlib==2.2.4
 mock==2.0.0
 more-itertools==7.0.0
-numpy==1.16.2
+numpy==1.22.0
 opencv-python==4.0.1.24
 pandas==0.22.0
 pbr==5.1.3
